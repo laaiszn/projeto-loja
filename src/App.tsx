@@ -72,7 +72,7 @@ const products: Product[] = [
     name: 'Calça Form Track',
     category: 'Calças',
     price: 329,
-    image: 'photo-1506629905607-d9f9e3f3dbe6',
+    image: 'photo-1503341455253-b2e723bb3dbb',
     tag: 'Novo',
     color: 'Preto',
     colorHex: '#242522',

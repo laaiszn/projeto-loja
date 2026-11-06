@@ -2,21 +2,7 @@
 
 Demonstração de uma loja virtual fictícia de roupas esportivas, criada com React, TypeScript e Vite. O projeto é apenas front-end: produtos, valores, imagens e interações são ilustrativos; não há servidor, autenticação, estoque nem processamento de pedidos.
 
-## Executar localmente
 
-Requisitos: Node.js 18+ e npm.
-
-```bash
-npm install
-npm run dev
-```
-
-Abra o endereço local exibido pelo Vite no terminal. Para conferir a versão de produção:
-
-```bash
-npm run build
-npm run preview
-```
 
 ## O que está demonstrado
 
