@@ -150,7 +150,7 @@ function Header({ cartCount }: { cartCount: number }) {
 
   return (
     <>
-      <div className="announcement">FRETE GRÁTIS A PARTIR DE R$ 399 <span>—</span> SEU PRÓXIMO MOVIMENTO COMEÇA AQUI</div>
+      <div className="announcement">FRETE GRÁTIS A PARTIR DE R$ 100 <span>—</span> SEU PRÓXIMO MOVIMENTO COMEÇA AQUI</div>
       <header className="site-header">
         <button className="icon-button mobile-menu-button" aria-label="Abrir menu" onClick={() => setMenuOpen(true)}>
           <Menu size={22} />
